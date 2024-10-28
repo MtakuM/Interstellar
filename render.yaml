@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: edu
+    name: RC_Tproxy-matsusaka
     env: docker
     plan: free
